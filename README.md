@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f729a36e-6e63-4eb5-8935-2a598854a3d9)# Monitoramento de Temperatura, Umidade, Luminosidade e Controle de LED via MQTT e Fiware
+# Monitoramento de Temperatura, Umidade, Luminosidade e Controle de LED via MQTT e Fiware
 ### Participantes:
 - Prof. Paulo Marcotti PF2150
 - Arthur Cotrick Pagani RM554510
