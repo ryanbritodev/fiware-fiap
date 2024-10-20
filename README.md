@@ -37,9 +37,9 @@ sensor de luminosidade LDR e um LED. A comunicação é realizada via protocolo 
 - Controlar o LED remotamente através de uma interface MQTT.
 
 ### Referências:
-https://github.com/fabiocabrini/fiware
-https://youtu.be/X7xwvKdaWqk?si=sMg1QUG8rcGMZNJ3
-https://youtu.be/q6b1f2CAmno?si=h6AGmgleTCZd_HY-
+- https://github.com/fabiocabrini/fiware
+- https://youtu.be/X7xwvKdaWqk?si=sMg1QUG8rcGMZNJ3
+- https://youtu.be/q6b1f2CAmno?si=h6AGmgleTCZd_HY-
 
 Revisões:
 - Versão 1.0 - 20/10/2024 - Ryan - Implementação inicial do sistema.
