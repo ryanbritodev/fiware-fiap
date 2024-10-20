@@ -164,9 +164,9 @@ void loop() {
 
 # Dashboard com o app MyMQTT:
 <div display="flex">
-<img width="300px" src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/DASH%20MYMQTT.jpg?raw=true"/>
-<img width="300px" src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/T%C3%93PICOS%20PUBLISH.jpg?raw=true"/>
-<img width="300px" src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/T%C3%93PICOS%20SUBSCRIBE.jpg?raw=true"/>
+<img width="280px" src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/DASH%20MYMQTT.jpg?raw=true"/>
+<img width="280px" src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/T%C3%93PICOS%20PUBLISH.jpg?raw=true"/>
+<img width="280px" src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/T%C3%93PICOS%20SUBSCRIBE.jpg?raw=true"/>
 </div>
 
 ### Objetivos:
