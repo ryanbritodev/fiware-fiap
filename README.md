@@ -32,6 +32,10 @@ sensor de luminosidade LDR e um LED. A comunicação é realizada via protocolo 
 3. Através do tópico /iot/led, é possível enviar comandos para ligar ou desligar o LED remotamente.
 4. O sistema pode ser monitorado e controlado através de qualquer aplicativo cliente MQTT, como o MyMQTT.
 
+# Circuito:
+<img src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/CIRCUITO.png?raw=true">
+Link para o Projeto no Wokwi: https://wokwi.com/projects/412207800870787073
+
 # Código do Projeto:
 ```cpp
 #include <WiFi.h>
