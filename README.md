@@ -162,6 +162,9 @@ void loop() {
 }
 ```
 
+# Dashboard com o app MyMQTT:
+<img width="300px" src="https://github.com/ryanbritodev/fiware-fiap/blob/main/assets/DASH%20MYMQTT.jpg?raw=true"/>
+
 ### Objetivos:
 - Monitorar remotamente a temperatura, umidade e luminosidade de um ambiente.
 - Controlar o LED remotamente através de uma interface MQTT.
