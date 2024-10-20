@@ -44,11 +44,11 @@ sensor de luminosidade LDR e um LED. A comunicação é realizada via protocolo 
 #define LDR_PIN 34     // Pino do LDR (sensor de luminosidade)
 
 // Informações da rede Wi-Fi
-const char* SSID = "Wokwi-GUEST";    // Nome da rede Wi-Fi
+const char* SSID = "";    // Nome da rede Wi-Fi
 const char* PASSWORD = "";           // Senha da rede Wi-Fi
 
 // Informações do Broker MQTT
-const char* BROKER_MQTT = "3.16.131.224"; // IP do Broker MQTT **OBS: PODE MUDAR AO INICIAR A INSTÂNCIA NOVAMENTE!!!**
+const char* BROKER_MQTT = ""; // IP do Broker MQTT **OBS: PODE MUDAR AO INICIAR A INSTÂNCIA NOVAMENTE!!!**
 const int BROKER_PORT = 1883;             // Porta do Broker MQTT
 const char* TOPICO_SUBSCRIBE_LED = "/iot/led"; // Tópico para controle do LED
 const char* TOPICO_PUBLISH_TEMP = "/iot/temperature"; // Tópico para enviar temperatura
