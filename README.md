@@ -182,7 +182,7 @@ void loop() {
 - **Como rodar o Fiware:** https://youtu.be/q6b1f2CAmno?si=h6AGmgleTCZd_HY-
 
 ### Agradecimentos
-- Gostaríamos de agradecer à **FIAP** e ao professores **Paulo Marcotti e Fábio Cabrini** pela oportunidade incrível de realizar esse projeto.
+- Gostaríamos de agradecer à **FIAP** e aos professores **Paulo Marcotti e Fábio Cabrini** pela oportunidade incrível de realizar esse projeto.
 
 ## Licença
 
